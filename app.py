@@ -6,5 +6,5 @@ def greet(name):
 
 
 if __name__ == "__main__":
-    user = "World"
+    user = "Adi"
     print(greet(user))
