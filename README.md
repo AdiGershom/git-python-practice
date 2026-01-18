@@ -7,5 +7,9 @@
 <img src="https://github.com/user-attachments/assets/c8537304-7161-4a6d-8741-5f24aba6f56b" />
 
 <br><br><br>**Bonus Git Assignment – Hands-On Advanced Practice**<br>
-**git log --oneline**
+**git log --oneline**<br>
 ![alt text](image.png)
+<br>**git log --graph --all**<br>
+![alt text](image-1.png)
+<br>**git show 46f4597**<br>
+![alt text](image-2.png)
