@@ -17,8 +17,10 @@
 <br>**git diff**<br>
 ![alt text](image-4.png)
 
-<br>**working tree is clean afterward**<br>
+<br>**working tree is clean after restore**<br>
 ![alt text](image-5.png)
 
 <br>**git log --oneline showing the revert commit**<br>
 ![alt text](image-3.png)
+<br>**Output showing stash creation and restoration**<br>
+![alt text](image-6.png)
