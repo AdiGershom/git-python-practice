@@ -7,5 +7,4 @@ def greet(name):
 
 if __name__ == "__main__":
     user = "Adi Gershom"
-    username ="agershom"
     print(greet(user))

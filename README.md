@@ -15,7 +15,10 @@
 ![alt text](image-2.png)
 
 <br>**git diff**<br>
-![alt text](image-3.png)
-<br>**git status after restore app.py**<br>
 ![alt text](image-4.png)
 
+<br>**working tree is clean afterward**<br>
+![alt text](image-5.png)
+
+<br>**git log --oneline showing the revert commit**<br>
+![alt text](image-3.png)
