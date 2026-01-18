@@ -24,3 +24,5 @@
 ![alt text](image-3.png)
 <br>**Output showing stash creation and restoration**<br>
 ![alt text](image-6.png)
+<br>**Branch list showing the branch temp/cleanup was removed**<br>
+![alt text](image-7.png)
