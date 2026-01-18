@@ -31,3 +31,6 @@
 
 <br>**tag visibale on github**<br>
 ![alt text](image-8.png)
+
+<br>**git status before and after ignoring**<br>
+![alt text](image-9.png)
